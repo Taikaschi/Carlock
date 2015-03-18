@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Carlock</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="car_open_btn">Auto aufschließen</string>
+    <string name="car_close_btn">Auto zuschließen</string>
+    <string name="door_open_btn">Tür öffnen</string>
+    <string name="door_close_btn">Tür schließen</string>
+    <string name="back_open_btn">Kofferraum öffnen</string>
+    <string name="back_close_btn">Kofferraum schließen</string>
+</resources>

@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="MainActivity" >
+
+    <Button
+        android:id="@+id/car_open_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/car_open_btn"/>
+    <Button
+        android:id="@+id/door_open_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/door_open_btn"/>
+    <Button
+        android:id="@+id/door_close_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/door_close_btn"/>
+    <Button
+        android:id="@+id/car_close_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/car_close_btn"/>
+    <Button
+        android:id="@+id/back_open_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back_open_btn"/>
+    <Button
+        android:id="@+id/back_close_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back_close_btn"/>
+</LinearLayout>
